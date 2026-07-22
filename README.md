@@ -191,11 +191,30 @@
 
 ---
 
-## 常见问题
+## 深度文章
+
+**入门与概念**
 
 - [机场是什么？和 VPN、梯子到底有什么区别](https://www.jichangyyds.com/blog/jichang-shi-shenme/)
-- [Clash 订阅导入完整教程](https://www.jichangyyds.com/blog/clash-daoru-dingyue-jiaocheng/)
+- [IPLC、IEPL、中转、直连有什么区别，为什么专线贵三倍](https://www.jichangyyds.com/blog/iplc-iepl-zhongzhuan-zhilian/)
+- [机场节点地区怎么选：港台日新美各适合什么场景](https://www.jichangyyds.com/blog/jiedian-diqu-zenme-xuan/)
+- [流量倍率、套餐额度与按量计费到底怎么算](https://www.jichangyyds.com/blog/liuliang-beilv-taocan/)
+
+**按客户端**
+
+- [Clash 订阅导入完整教程（Verge / Meta）](https://www.jichangyyds.com/blog/clash-daoru-dingyue-jiaocheng/)
+- [Shadowrocket 小火箭用户怎么选机场](https://www.jichangyyds.com/blog/shadowrocket-jichang-tuijian/)
+- [v2rayN / v2rayNG 怎么用、怎么选机场](https://www.jichangyyds.com/blog/v2rayn-jichang-tuijian/)
+
+**按用途**
+
+- [ChatGPT / Claude 等 AI 工具该选什么机场](https://www.jichangyyds.com/blog/chatgpt-jichang-tuijian/)
+- [Netflix / Disney+ / HBO 解锁机场怎么选](https://www.jichangyyds.com/blog/liumeiti-jiesuo-jichang/)
 - [机场晚高峰卡怎么办](https://www.jichangyyds.com/blog/wangaofeng-ka-zenme-ban/)
+
+**避坑**
+
+- [怎么判断一家机场会不会跑路](https://www.jichangyyds.com/blog/ruhe-panduan-jichang-paolu/)
 - [机场报错排查：连不上 / 节点全红 / 订阅失效](https://www.jichangyyds.com/troubleshoot/)
 - [189 条机场长尾问答库](https://www.jichangyyds.com/faq/)
 
