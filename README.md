@@ -46,9 +46,9 @@
 
 | 机场品牌 | 节点数 | 香港中位速度 | 香港中位延迟 | 测试入口 |
 | --- | ---: | ---: | ---: | --- |
-| [飞猫云](https://www.jichangyyds.com/brands/feimaoyun/) | 86/88 | 60.48 MB/s | 37ms | A-张家口电信@1Gbps |
-| [星岛梦](https://www.jichangyyds.com/brands/xingdaomeng/) | 87/88 | 54.76 MB/s | 51ms | A-上海Azure微软云@10Gbps |
 | [一翻云](https://www.jichangyyds.com/brands/yifanyun/) | 84/85 | 145.64 MB/s | 41ms | A-阳江电信@2Gbps |
+| [星岛梦](https://www.jichangyyds.com/brands/xingdaomeng/) | 87/88 | 54.76 MB/s | 51ms | A-上海Azure微软云@10Gbps |
+| [飞猫云](https://www.jichangyyds.com/brands/feimaoyun/) | 86/88 | 60.48 MB/s | 37ms | A-张家口电信@1Gbps |
 | [全球云](https://www.jichangyyds.com/brands/quanqiuyun/) | 32/33 | 86.73 MB/s | 41ms | A-佛山联通@2Gbps |
 | [唯兔云](https://www.jichangyyds.com/brands/weituyun/) | 29/30 | 73.25 MB/s | 50ms | A-长沙电信@2Gbps |
 | [U1S1](https://www.jichangyyds.com/brands/u1s1/) | 49/49 | 78.94 MB/s | 11ms | A-乐东电信@1Gbps |
