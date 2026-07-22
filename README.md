@@ -3,8 +3,8 @@
 > 全网机场品牌清单，按公开价格排序，**已跑路名单一并公开**。
 > 数据来源：[机场YYDS](https://www.jichangyyds.com/) · 更新于 2026-07-22
 
-收录 **107** 家机场品牌，其中在营 **84** 家、
-已确认停止运营 **23** 家、收集到可用优惠码 **54** 个。
+收录 **16** 家机场品牌，其中在营 **16** 家、
+已确认停止运营 **23** 家、收集到可用优惠码 **16** 个。
 
 本仓库只做一件事：把这张表维护好，并且**诚实标注哪些已经跑路了**。
 网上大量「机场推荐」文章从不更新，用户搜到一年前的推荐、点进去付了款，钱就没了。
@@ -37,104 +37,36 @@
 
 ## 在营机场清单
 
-### 低价走量（20 家）
+### 低价走量（3 家）
 
 | 机场品牌 | 最低月付 | 优惠码 | 详情 |
 | --- | --- | --- | --- |
 | [飞猫云](https://www.jichangyyds.com/brands/feimaoyun/) | ¥7 | 入口自动特惠 | [查看档案](https://www.jichangyyds.com/brands/feimaoyun/) |
 | [星岛梦](https://www.jichangyyds.com/brands/xingdaomeng/) | ¥8 | 入口自动特惠 | [查看档案](https://www.jichangyyds.com/brands/xingdaomeng/) |
-| [悠兔机场](https://www.jichangyyds.com/brands/youtu/) | ¥9.9 | `YOU2T` | [查看档案](https://www.jichangyyds.com/brands/youtu/) |
-| [蛋挞云](https://www.jichangyyds.com/brands/dantayun/) | ¥9.9 | — | [查看档案](https://www.jichangyyds.com/brands/dantayun/) |
-| [青云梯机场](https://www.jichangyyds.com/brands/qingyunti/) | ¥10 | `QYT10` | [查看档案](https://www.jichangyyds.com/brands/qingyunti/) |
-| [Flashfox 闪狐云](https://www.jichangyyds.com/brands/flashfox/) | ¥10 | `FLASH10` | [查看档案](https://www.jichangyyds.com/brands/flashfox/) |
-| [小鸡快跑机场](https://www.jichangyyds.com/brands/xiaojikuaipao/) | ¥10 | `CHICKEN` | [查看档案](https://www.jichangyyds.com/brands/xiaojikuaipao/) |
-| [老猫云机场](https://www.jichangyyds.com/brands/laomaoyun/) | ¥10 | `OLD2026` | [查看档案](https://www.jichangyyds.com/brands/laomaoyun/) |
-| [Coffee Cloud](https://www.jichangyyds.com/brands/coffee-cloud/) | ¥11 | `COFFEE10` | [查看档案](https://www.jichangyyds.com/brands/coffee-cloud/) |
-| [iNetS 机场](https://www.jichangyyds.com/brands/inets/) | ¥11 | `INETS10` | [查看档案](https://www.jichangyyds.com/brands/inets/) |
 | [edgenova](https://www.jichangyyds.com/brands/edgenova/) | ¥12 | 入口自动特惠 | [查看档案](https://www.jichangyyds.com/brands/edgenova/) |
-| [MDSS Cloud](https://www.jichangyyds.com/brands/mdss-cloud/) | ¥12 | — | [查看档案](https://www.jichangyyds.com/brands/mdss-cloud/) |
-| [Riolu 精灵学院](https://www.jichangyyds.com/brands/riolu/) | ¥12 | `RIOLU30` | [查看档案](https://www.jichangyyds.com/brands/riolu/) |
-| [乌龟加速机场](https://www.jichangyyds.com/brands/wugui/) | ¥12 | — | [查看档案](https://www.jichangyyds.com/brands/wugui/) |
-| [秒秒云](https://www.jichangyyds.com/brands/miaomiaoyun/) | ¥12 | `SECOND12` | [查看档案](https://www.jichangyyds.com/brands/miaomiaoyun/) |
-| [速云梯](https://www.jichangyyds.com/brands/suyunti/) | ¥12 | `SYT66` | [查看档案](https://www.jichangyyds.com/brands/suyunti/) |
-| [CATNET](https://www.jichangyyds.com/brands/catnet/) | ¥12 | `CAT2026` | [查看档案](https://www.jichangyyds.com/brands/catnet/) |
-| [OKANC](https://www.jichangyyds.com/brands/okanc/) | ¥12 | `OKANC20` | [查看档案](https://www.jichangyyds.com/brands/okanc/) |
-| [SS-ID 机场](https://www.jichangyyds.com/brands/ss-id/) | ¥13 | `SSID13` | [查看档案](https://www.jichangyyds.com/brands/ss-id/) |
-| [狗狗加速](https://www.jichangyyds.com/brands/gougou/) | ¥13 | `DOG2026` | [查看档案](https://www.jichangyyds.com/brands/gougou/) |
 
-### 主流性价比（48 家）
+### 主流性价比（8 家）
 
 | 机场品牌 | 最低月付 | 优惠码 | 详情 |
 | --- | --- | --- | --- |
-| [FATCAT 肥猫云](https://www.jichangyyds.com/brands/fatcat/) | ¥14 | `CAT20` | [查看档案](https://www.jichangyyds.com/brands/fatcat/) |
-| [一番云](https://www.jichangyyds.com/brands/yifan-cloud/) | ¥14 | — | [查看档案](https://www.jichangyyds.com/brands/yifan-cloud/) |
-| [SSRDOG](https://www.jichangyyds.com/brands/ssrdog/) | ¥14 | — | [查看档案](https://www.jichangyyds.com/brands/ssrdog/) |
-| [鹿语云机场](https://www.jichangyyds.com/brands/luyuyun/) | ¥14 | `LULU14` | [查看档案](https://www.jichangyyds.com/brands/luyuyun/) |
-| [小旋风机场](https://www.jichangyyds.com/brands/xiaoxuanfeng/) | ¥14 | `XIAOXF` | [查看档案](https://www.jichangyyds.com/brands/xiaoxuanfeng/) |
-| [魔戒机场](https://www.jichangyyds.com/brands/mojie/) | ¥14 | `RING25` | [查看档案](https://www.jichangyyds.com/brands/mojie/) |
-| [银河云](https://www.jichangyyds.com/brands/yinheyun/) | ¥14.5 | `GALAXY500` | [查看档案](https://www.jichangyyds.com/brands/yinheyun/) |
 | [唯兔云](https://www.jichangyyds.com/brands/weituyun/) | ¥14.9 | 入口自动特惠 | [查看档案](https://www.jichangyyds.com/brands/weituyun/) |
 | [速界](https://www.jichangyyds.com/brands/sujie/) | ¥15 | 入口自动特惠 | [查看档案](https://www.jichangyyds.com/brands/sujie/) |
-| [大哥云](https://www.jichangyyds.com/brands/dageyun/) | ¥15 | — | [查看档案](https://www.jichangyyds.com/brands/dageyun/) |
-| [魅影极速 Maying](https://www.jichangyyds.com/brands/maying/) | ¥15 | — | [查看档案](https://www.jichangyyds.com/brands/maying/) |
-| [雪橇云机场](https://www.jichangyyds.com/brands/xueqiaoyun/) | ¥15 | — | [查看档案](https://www.jichangyyds.com/brands/xueqiaoyun/) |
-| [守候网络](https://www.jichangyyds.com/brands/shouhou/) | ¥15 | `SHVIP` | [查看档案](https://www.jichangyyds.com/brands/shouhou/) |
-| [Anyland 机场](https://www.jichangyyds.com/brands/anyland/) | ¥15 | `ANY15` | [查看档案](https://www.jichangyyds.com/brands/anyland/) |
-| [奈云](https://www.jichangyyds.com/brands/naiyun/) | ¥15 | — | [查看档案](https://www.jichangyyds.com/brands/naiyun/) |
-| [蓝帆云](https://www.jichangyyds.com/brands/lanfanyun/) | ¥16 | — | [查看档案](https://www.jichangyyds.com/brands/lanfanyun/) |
-| [flyit机场](https://www.jichangyyds.com/brands/flyit/) | ¥16 | — | [查看档案](https://www.jichangyyds.com/brands/flyit/) |
-| [Bitz Net](https://www.jichangyyds.com/brands/bitz-net/) | ¥16 | — | [查看档案](https://www.jichangyyds.com/brands/bitz-net/) |
-| [YepFast 椰皮](https://www.jichangyyds.com/brands/yepfast/) | ¥16 | `YEP20` | [查看档案](https://www.jichangyyds.com/brands/yepfast/) |
-| [YkkCloud 机场](https://www.jichangyyds.com/brands/ykkcloud/) | ¥16 | `YKKCLOUD` | [查看档案](https://www.jichangyyds.com/brands/ykkcloud/) |
-| [Naiu Network](https://www.jichangyyds.com/brands/naiu/) | ¥16 | `NAIU2026` | [查看档案](https://www.jichangyyds.com/brands/naiu/) |
 | [极连云](https://www.jichangyyds.com/brands/jilianyun/) | ¥18 | 入口自动特惠 | [查看档案](https://www.jichangyyds.com/brands/jilianyun/) |
 | [sogo云](https://www.jichangyyds.com/brands/sogoyun/) | ¥18 | 入口自动特惠 | [查看档案](https://www.jichangyyds.com/brands/sogoyun/) |
-| [山水云](https://www.jichangyyds.com/brands/shanshuiyun/) | ¥18 | — | [查看档案](https://www.jichangyyds.com/brands/shanshuiyun/) |
-| [FastLink](https://www.jichangyyds.com/brands/fastlink/) | ¥18 | — | [查看档案](https://www.jichangyyds.com/brands/fastlink/) |
-| [哆啦A梦](https://www.jichangyyds.com/brands/doraemon/) | ¥18 | — | [查看档案](https://www.jichangyyds.com/brands/doraemon/) |
-| [GLaDOS](https://www.jichangyyds.com/brands/glados/) | ¥18 | — | [查看档案](https://www.jichangyyds.com/brands/glados/) |
-| [Web3 加速器](https://www.jichangyyds.com/brands/web3/) | ¥18 | `WEB3NEW` | [查看档案](https://www.jichangyyds.com/brands/web3/) |
-| [Bridge the Wall](https://www.jichangyyds.com/brands/bridgethewall/) | ¥18 | `BTW10` | [查看档案](https://www.jichangyyds.com/brands/bridgethewall/) |
-| [尔湾云](https://www.jichangyyds.com/brands/erwanyun/) | ¥19 | `ER20` | [查看档案](https://www.jichangyyds.com/brands/erwanyun/) |
-| [夜煞云机场](https://www.jichangyyds.com/brands/yeshayun/) | ¥19 | `NIGHT20` | [查看档案](https://www.jichangyyds.com/brands/yeshayun/) |
-| [飞机云](https://www.jichangyyds.com/brands/feijiyun/) | ¥19 | `FEIJI2026` | [查看档案](https://www.jichangyyds.com/brands/feijiyun/) |
-| [ASH 微斯人](https://www.jichangyyds.com/brands/ash/) | ¥19 | `ASHVIP` | [查看档案](https://www.jichangyyds.com/brands/ash/) |
 | [光年梯](https://www.jichangyyds.com/brands/guangnianti/) | ¥19.9 | 入口自动特惠 | [查看档案](https://www.jichangyyds.com/brands/guangnianti/) |
-| [BigME 大米机场](https://www.jichangyyds.com/brands/bigme/) | ¥19.9 | — | [查看档案](https://www.jichangyyds.com/brands/bigme/) |
-| [隐云](https://www.jichangyyds.com/brands/yinyun/) | ¥20 | — | [查看档案](https://www.jichangyyds.com/brands/yinyun/) |
-| [SpeedCAT 闪电猫](https://www.jichangyyds.com/brands/speedcat/) | ¥20 | `SCAT20` | [查看档案](https://www.jichangyyds.com/brands/speedcat/) |
-| [迅达云机场](https://www.jichangyyds.com/brands/xundayun/) | ¥20 | — | [查看档案](https://www.jichangyyds.com/brands/xundayun/) |
-| [MESL](https://www.jichangyyds.com/brands/mesl/) | ¥20 | — | [查看档案](https://www.jichangyyds.com/brands/mesl/) |
-| [五树云机场](https://www.jichangyyds.com/brands/wushuyun/) | ¥20 | `WSCLOUD` | [查看档案](https://www.jichangyyds.com/brands/wushuyun/) |
-| [Infiniport](https://www.jichangyyds.com/brands/infiniport/) | ¥20 | `IP2026` | [查看档案](https://www.jichangyyds.com/brands/infiniport/) |
 | [光速云](https://www.jichangyyds.com/brands/guangsuyun/) | ¥21.3 | 入口自动特惠 | [查看档案](https://www.jichangyyds.com/brands/guangsuyun/) |
 | [二猫云](https://www.jichangyyds.com/brands/ermaoyun/) | ¥22 | 入口自动特惠 | [查看档案](https://www.jichangyyds.com/brands/ermaoyun/) |
-| [FlyingBird 飞鸟](https://www.jichangyyds.com/brands/flyingbird/) | ¥22 | — | [查看档案](https://www.jichangyyds.com/brands/flyingbird/) |
-| [TNT Cloud](https://www.jichangyyds.com/brands/tnt-cloud/) | ¥22 | `TNT50` | [查看档案](https://www.jichangyyds.com/brands/tnt-cloud/) |
-| [冲上云霄机场](https://www.jichangyyds.com/brands/chongshangyunxiao/) | ¥22 | — | [查看档案](https://www.jichangyyds.com/brands/chongshangyunxiao/) |
-| [酷酷云机场](https://www.jichangyyds.com/brands/kukuyun/) | ¥22 | `COOL2026` | [查看档案](https://www.jichangyyds.com/brands/kukuyun/) |
 | [U1S1](https://www.jichangyyds.com/brands/u1s1/) | ¥22.1 | 入口自动特惠 | [查看档案](https://www.jichangyyds.com/brands/u1s1/) |
 
-### 高价专线档（16 家）
+### 高价专线档（5 家）
 
 | 机场品牌 | 最低月付 | 优惠码 | 详情 |
 | --- | --- | --- | --- |
 | [一翻云](https://www.jichangyyds.com/brands/yifanyun/) | ¥25 | 入口自动特惠 | [查看档案](https://www.jichangyyds.com/brands/yifanyun/) |
 | [可信云](https://www.jichangyyds.com/brands/kexinyun/) | ¥25 | 入口自动特惠 | [查看档案](https://www.jichangyyds.com/brands/kexinyun/) |
-| [FlowerCloud 花云](https://www.jichangyyds.com/brands/flowercloud/) | ¥25 | — | [查看档案](https://www.jichangyyds.com/brands/flowercloud/) |
-| [CyberGuard](https://www.jichangyyds.com/brands/cyberguard/) | ¥25 | `CG2026` | [查看档案](https://www.jichangyyds.com/brands/cyberguard/) |
-| [糖果云机场](https://www.jichangyyds.com/brands/tangguoyun/) | ¥25 | — | [查看档案](https://www.jichangyyds.com/brands/tangguoyun/) |
-| [COCODUCK](https://www.jichangyyds.com/brands/cocoduck/) | ¥25 | `DUCK2026` | [查看档案](https://www.jichangyyds.com/brands/cocoduck/) |
 | [全球云](https://www.jichangyyds.com/brands/quanqiuyun/) | ¥26.2 | 入口自动特惠 | [查看档案](https://www.jichangyyds.com/brands/quanqiuyun/) |
-| [WgetCloud](https://www.jichangyyds.com/brands/wgetcloud/) | ¥28 | — | [查看档案](https://www.jichangyyds.com/brands/wgetcloud/) |
-| [Boost Net](https://www.jichangyyds.com/brands/boost-net/) | ¥28 | — | [查看档案](https://www.jichangyyds.com/brands/boost-net/) |
-| [NieRCloud](https://www.jichangyyds.com/brands/niercloud/) | ¥28 | `NIERCLOUD` | [查看档案](https://www.jichangyyds.com/brands/niercloud/) |
 | [快狸](https://www.jichangyyds.com/brands/kuaili/) | ¥28.9 | 入口自动特惠 | [查看档案](https://www.jichangyyds.com/brands/kuaili/) |
 | [宇宙云](https://www.jichangyyds.com/brands/yuzhouyun/) | ¥30 | 入口自动特惠 | [查看档案](https://www.jichangyyds.com/brands/yuzhouyun/) |
-| [灯塔cloud机场](https://www.jichangyyds.com/brands/dengta-cloud/) | ¥30 | — | [查看档案](https://www.jichangyyds.com/brands/dengta-cloud/) |
-| [Nexitally 奶昔](https://www.jichangyyds.com/brands/nexitally/) | ¥35 | — | [查看档案](https://www.jichangyyds.com/brands/nexitally/) |
-| [AmyTelecom](https://www.jichangyyds.com/brands/amytelecom/) | ¥35 | — | [查看档案](https://www.jichangyyds.com/brands/amytelecom/) |
-| [JustMySocks](https://www.jichangyyds.com/brands/justmysocks/) | ¥48 | — | [查看档案](https://www.jichangyyds.com/brands/justmysocks/) |
 
 ---
 
@@ -143,29 +75,29 @@
 以下品牌已确认停止运营或长期无法访问。**请勿再向这些站点付款。**
 如果你搜到某篇老文章还在推荐它们，请以本表为准。
 
-- ~~龙猫云~~ — [风险说明与替代推荐](https://www.jichangyyds.com/brands/longmaoyun/)
-- ~~TTAG VPN~~ — [风险说明与替代推荐](https://www.jichangyyds.com/brands/ttag-vpn/)
-- ~~库洛米 Kuromi~~ — [风险说明与替代推荐](https://www.jichangyyds.com/brands/kuromi/)
-- ~~扬帆云~~ — [风险说明与替代推荐](https://www.jichangyyds.com/brands/yangfanyun/)
-- ~~疾风云~~ — [风险说明与替代推荐](https://www.jichangyyds.com/brands/jifengyun/)
-- ~~一枝红杏~~ — [风险说明与替代推荐](https://www.jichangyyds.com/brands/yizhihongxing/)
-- ~~红杏云机场~~ — [风险说明与替代推荐](https://www.jichangyyds.com/brands/hongxingyun/)
-- ~~赔钱机场~~ — [风险说明与替代推荐](https://www.jichangyyds.com/brands/peiqian/)
-- ~~xxyun加速机场~~ — [风险说明与替代推荐](https://www.jichangyyds.com/brands/xxyun/)
-- ~~SkyLinX~~ — [风险说明与替代推荐](https://www.jichangyyds.com/brands/skylinx/)
-- ~~大象网络~~ — [风险说明与替代推荐](https://www.jichangyyds.com/brands/daxiang/)
-- ~~Viking Links~~ — [风险说明与替代推荐](https://www.jichangyyds.com/brands/viking-links/)
-- ~~E-IX 云加速~~ — [风险说明与替代推荐](https://www.jichangyyds.com/brands/e-ix/)
-- ~~游乐园 VPN~~ — [风险说明与替代推荐](https://www.jichangyyds.com/brands/youleyuan/)
-- ~~次元链接机场~~ — [风险说明与替代推荐](https://www.jichangyyds.com/brands/ciyuanlianjie/)
-- ~~贝贝云机场~~ — [风险说明与替代推荐](https://www.jichangyyds.com/brands/beibeiyun/)
-- ~~一云梯机场~~ — [风险说明与替代推荐](https://www.jichangyyds.com/brands/yiyunti/)
-- ~~飞天猪~~ — [风险说明与替代推荐](https://www.jichangyyds.com/brands/feitianzhu/)
-- ~~XFLTD 养鸡场~~ — [风险说明与替代推荐](https://www.jichangyyds.com/brands/xfltd/)
-- ~~最萌的云~~ — [风险说明与替代推荐](https://www.jichangyyds.com/brands/zuimengdeyun/)
-- ~~八戒机场~~ — [风险说明与替代推荐](https://www.jichangyyds.com/brands/bajie/)
-- ~~泡泡狗机场~~ — [风险说明与替代推荐](https://www.jichangyyds.com/brands/paopaogou/)
-- ~~XX-AI~~ — [风险说明与替代推荐](https://www.jichangyyds.com/brands/xx-ai/)
+- ~~龙猫云~~
+- ~~TTAG VPN~~
+- ~~库洛米 Kuromi~~
+- ~~扬帆云~~
+- ~~疾风云~~
+- ~~一枝红杏~~
+- ~~红杏云机场~~
+- ~~赔钱机场~~
+- ~~xxyun加速机场~~
+- ~~SkyLinX~~
+- ~~大象网络~~
+- ~~Viking Links~~
+- ~~E-IX 云加速~~
+- ~~游乐园 VPN~~
+- ~~次元链接机场~~
+- ~~贝贝云机场~~
+- ~~一云梯机场~~
+- ~~飞天猪~~
+- ~~XFLTD 养鸡场~~
+- ~~最萌的云~~
+- ~~八戒机场~~
+- ~~泡泡狗机场~~
+- ~~XX-AI~~
 
 跑路前兆的识别方法（客服消失、异常年付促销、节点持续减少、被墙后不换域名等六条），
 见 [怎么判断一家机场会不会跑路](https://www.jichangyyds.com/blog/ruhe-panduan-jichang-paolu/)
