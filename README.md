@@ -2,7 +2,7 @@
 
 > 精选 **16** 家机场，**全部完成晚高峰实测**（865 个节点）。
 > 另附 **21** 家风险名单公开标注。
-> 数据来源：[机场YYDS](https://www.jichangyyds.com/) · 更新于 2026-07-22
+> 数据来源：[机场YYDS](https://www.jichangyyds.com/) · 更新于 2026-07-23
 
 我们不做「收录一百家」的清单。市面上流传的机场清单动辄上百家，其中大量条目
 连独立官网都查不到——没有可核实的信息还要写评测，那是编。
@@ -88,7 +88,7 @@
 | [星岛梦](https://www.jichangyyds.com/brands/xingdaomeng/) | ¥8 | 入口自动特惠 | [查看档案](https://www.jichangyyds.com/brands/xingdaomeng/) |
 | [edgenova](https://www.jichangyyds.com/brands/edgenova/) | ¥12 | 入口自动特惠 | [查看档案](https://www.jichangyyds.com/brands/edgenova/) |
 
-### 主流性价比（8 家）
+### 主流性价比（9 家）
 
 | 机场品牌 | 最低月付 | 优惠码 | 详情 |
 | --- | --- | --- | --- |
@@ -97,15 +97,15 @@
 | [极连云](https://www.jichangyyds.com/brands/jilianyun/) | ¥18 | 入口自动特惠 | [查看档案](https://www.jichangyyds.com/brands/jilianyun/) |
 | [sogo云](https://www.jichangyyds.com/brands/sogoyun/) | ¥18 | 入口自动特惠 | [查看档案](https://www.jichangyyds.com/brands/sogoyun/) |
 | [光年梯](https://www.jichangyyds.com/brands/guangnianti/) | ¥19.9 | 入口自动特惠 | [查看档案](https://www.jichangyyds.com/brands/guangnianti/) |
+| [一翻云](https://www.jichangyyds.com/brands/yifanyun/) | ¥20 | 入口自动特惠 | [查看档案](https://www.jichangyyds.com/brands/yifanyun/) |
 | [光速云](https://www.jichangyyds.com/brands/guangsuyun/) | ¥21.3 | 入口自动特惠 | [查看档案](https://www.jichangyyds.com/brands/guangsuyun/) |
 | [二猫云](https://www.jichangyyds.com/brands/ermaoyun/) | ¥22 | 入口自动特惠 | [查看档案](https://www.jichangyyds.com/brands/ermaoyun/) |
 | [U1S1](https://www.jichangyyds.com/brands/u1s1/) | ¥22.1 | 入口自动特惠 | [查看档案](https://www.jichangyyds.com/brands/u1s1/) |
 
-### 高价专线档（5 家）
+### 高价专线档（4 家）
 
 | 机场品牌 | 最低月付 | 优惠码 | 详情 |
 | --- | --- | --- | --- |
-| [一翻云](https://www.jichangyyds.com/brands/yifanyun/) | ¥25 | 入口自动特惠 | [查看档案](https://www.jichangyyds.com/brands/yifanyun/) |
 | [可信云](https://www.jichangyyds.com/brands/kexinyun/) | ¥25 | 入口自动特惠 | [查看档案](https://www.jichangyyds.com/brands/kexinyun/) |
 | [全球云](https://www.jichangyyds.com/brands/quanqiuyun/) | ¥26.2 | 入口自动特惠 | [查看档案](https://www.jichangyyds.com/brands/quanqiuyun/) |
 | [快狸](https://www.jichangyyds.com/brands/kuaili/) | ¥28.9 | 入口自动特惠 | [查看档案](https://www.jichangyyds.com/brands/kuaili/) |
@@ -149,18 +149,20 @@
 ## 按需求分类的榜单
 
 - [便宜机场推荐](https://www.jichangyyds.com/topics/cheap/) — 2026 年便宜机场推荐榜单，按最低月付价格从低到高排列，覆盖 ¥10 元以内的低价…
-- [稳定机场推荐](https://www.jichangyyds.com/topics/stable/) — 2026 稳定机场推荐。稳定不等于速度快，本页说明判断机场稳定性的五个维度，并列出主…
+- [稳定机场推荐](https://www.jichangyyds.com/topics/stable/) — 2026 稳定机场推荐。稳定不等于速度快——峰值再高，晚高峰掉一半也算不上稳。本页说…
 - [专线机场推荐](https://www.jichangyyds.com/topics/dedicated-line/) — IPLC、IEPL、中转、直连有什么区别？专线机场为什么更贵？本页拆解四种线路架构的…
 - [机场优惠码推荐](https://www.jichangyyds.com/topics/coupon/) — 2026 年机场优惠码与折扣码汇总，点击即可复制，含自动特惠入口说明。同时讲清楚首单…
 - [Clash 机场推荐](https://www.jichangyyds.com/topics/clash/) — Clash / Clash Verge / Clash Meta（Mihomo）用户…
 - [Shadowrocket 机场推荐](https://www.jichangyyds.com/topics/shadowrocket/) — 小火箭（Shadowrocket）用户如何选择机场订阅？本页说明 iOS 端的订阅导…
-- [v2rayN 机场推荐](https://www.jichangyyds.com/topics/v2rayn/) — Windows 端 v2rayN / v2rayNG 用户如何选择机场，订阅导入方式…
+- [v2rayN 机场推荐](https://www.jichangyyds.com/topics/v2rayn/) — Windows 端 v2rayN 与安卓端 v2rayNG 该怎么选机场：订阅链接怎…
 - [sing-box 机场推荐](https://www.jichangyyds.com/topics/sing-box/) — sing-box 与 Hiddify 用户如何选择机场？本页说明 Hysteria2…
+- [圈 X 机场推荐](https://www.jichangyyds.com/topics/quantumult-x/) — 圈 X（Quantumult X）用户如何选机场？本页说明为什么通用订阅链接在圈 X…
 - [ChatGPT 机场推荐](https://www.jichangyyds.com/topics/chatgpt/) — 哪些机场适合访问 ChatGPT、Claude、Gemini 等 AI 工具？本页说…
 - [流媒体解锁机场推荐](https://www.jichangyyds.com/topics/streaming/) — Netflix、Disney+、HBO Max、TikTok 解锁机场怎么选？本页解…
 - [晚高峰稳定机场推荐](https://www.jichangyyds.com/topics/peak-hour/) — 机场晚高峰为什么卡？本页解释超售、共享带宽与公网出口拥堵对晚间体验的影响，给出连续三…
 - [游戏低延迟机场推荐](https://www.jichangyyds.com/topics/gaming/) — 游戏加速能用机场吗？本页说明机场与专业加速器的优化目标差异，讲清 UDP 转发、丢包…
 - [免费试用机场推荐](https://www.jichangyyds.com/topics/trial/) — 免费试用机场安全吗？一元试用值不值得买？本页说明完全免费节点的真实风险，并给出试用期…
+- [梯子推荐](https://www.jichangyyds.com/topics/tizi/) — 梯子推荐 2026。「梯子」「机场」「VPN」这三个词经常被混用，但买错方向会多花冤…
 
 ---
 
